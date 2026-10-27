@@ -1,4 +1,5 @@
 version: STSv1
 mode: enforce
-mx: 	wv-jmat-org-uk.mail.protection.outlook.com
-max_age: 1209600
+mx: mx-01-eu-west-1.prod.hydra.sophos.com
+mx: mx-02-eu-west-1.prod.hydra.sophos.com
+max_age: 604800
